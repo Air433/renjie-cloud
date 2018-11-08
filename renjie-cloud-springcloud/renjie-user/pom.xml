@@ -28,6 +28,16 @@
       <artifactId>spring-boot-starter-test</artifactId>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>${lombok.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>druid</artifactId>
+      <version>${druid.version}</version>
+    </dependency>
   </dependencies>
 
   <dependencyManagement>
@@ -39,6 +49,8 @@
         <type>pom</type>
         <scope>import</scope>
       </dependency>
+
+
     </dependencies>
   </dependencyManagement>
 

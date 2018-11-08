@@ -25,6 +25,8 @@
         <spring-cloud.version>Greenwich.M1</spring-cloud.version>
         <mybatis.plus.version>2.3</mybatis.plus.version>
         <mybatis..plus-starter>1.0.5</mybatis..plus-starter>
+        <druid.version>1.1.10</druid.version>
+        <lombok.version>1.18.0</lombok.version>
     </properties>
 
 </project>

@@ -11,6 +11,9 @@
   <packaging>pom</packaging>
   <modules>
     <module>renjie-common</module>
+    <module>renjie-eureka</module>
+    <module>renjie-order</module>
+    <module>renjie-order</module>
   </modules>
 
   <artifactId>renjie-cloud-springcloud</artifactId>
