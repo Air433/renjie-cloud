@@ -1,4 +1,4 @@
-package com.renjie.cloud.renjieorder.controller;
+package com.renjie.cloud.renjie.order.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

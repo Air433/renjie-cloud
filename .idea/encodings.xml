@@ -3,7 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/renjie-cloud-springcloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renjie-cloud-springcloud/renjie-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/renjie-cloud-springcloud/renjie-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/renjie-cloud-springcloud/renjie-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/renjie-cloud-springcloud/renjie-user" charset="UTF-8" />
   </component>
 </project>

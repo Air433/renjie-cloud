@@ -1,4 +1,4 @@
-package com.renjie.cloud.renjieorder;
+package com.renjie.cloud.renjie.order;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

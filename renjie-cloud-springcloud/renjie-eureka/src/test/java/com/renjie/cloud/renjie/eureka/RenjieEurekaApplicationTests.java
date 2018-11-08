@@ -1,4 +1,4 @@
-package com.renjie.cloud.renjieeureka;
+package com.renjie.cloud.renjie.eureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

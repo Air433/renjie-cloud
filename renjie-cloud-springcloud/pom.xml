@@ -9,8 +9,23 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <packaging>pom</packaging>
+  <modules>
+    <module>renjie-common</module>
+  </modules>
 
   <artifactId>renjie-cloud-springcloud</artifactId>
 
+  <dependencies>
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatisplus-spring-boot-starter</artifactId>
+      <version>${mybatis..plus-starter}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatis-plus</artifactId>
+      <version>${mybatis.plus.version}</version>
+    </dependency>
+  </dependencies>
 
 </project>
