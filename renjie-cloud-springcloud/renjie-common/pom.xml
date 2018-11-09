@@ -10,6 +10,46 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>renjie-common</artifactId>
+  <dependencies>
+    <dependency>
+      <groupId>commons-lang</groupId>
+      <artifactId>commons-lang</artifactId>
+      <version>${commons-lang.version}</version>
+      <scope>compile</scope>
+    </dependency>
+    <!--<dependency>-->
+      <!--<groupId>com.baomidou</groupId>-->
+      <!--<artifactId>mybatis-plus-boot-starter</artifactId>-->
+      <!--<version>3.0.5</version>-->
+    <!--</dependency>-->
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatisplus-spring-boot-starter</artifactId>
+      <version>${mybatis.plus-starter}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatis-plus</artifactId>
+      <version>${mybatis.plus.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>javax.validation</groupId>
+      <artifactId>validation-api</artifactId>
+    </dependency>
+
+    <!-- druid阿里巴巴数据库连接池 -->
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>druid</artifactId>
+      <version>${druid.version}</version>
+    </dependency>
+
+    <!--spring boot的核心启动器-->
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
+    </dependency>
+  </dependencies>
 
 
 </project>

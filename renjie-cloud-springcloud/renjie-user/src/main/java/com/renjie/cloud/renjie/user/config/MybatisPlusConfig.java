@@ -67,9 +67,9 @@ public class MybatisPlusConfig {
     log.info("初始化SqlSessionFactory");
     //String mapperLocations = "com.renjie.dao.**.*.xml";
     String mapperLocations = "classpath:/mapper/*/*.xml";
-    String configLocation = "classpath:/mybatis-sqlconfig.xml";
+    String configLocation = "classpath:/config/mybatis-sqlconfig.xml";
     //String typeAliasesPackage = "com.renjie.entity.**";
-    String typeAliasesPackage = "com.renjie.modules.*.entity.**";
+    String typeAliasesPackage = "com.renjie.cloud.renjie.user.entity.**";
     MybatisSqlSessionFactoryBean sqlSessionFactory = new MybatisSqlSessionFactoryBean();
     sqlSessionFactory.setDataSource(dataSource); //数据源
     sqlSessionFactory.setGlobalConfig(globalConfig); //全局配置
