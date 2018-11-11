@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="renjie-common" />
         <module name="renjie-eureka" />
+        <module name="renjie-gateway" />
         <module name="renjie-order" />
         <module name="renjie-user" />
       </profile>

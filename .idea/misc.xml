@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/renjie-cloud-springcloud/renjie-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/renjie-cloud-springcloud/renjie-common/pom.xml" />
         <option value="$PROJECT_DIR$/renjie-cloud-springcloud/renjie-user/pom.xml" />
+        <option value="$PROJECT_DIR$/renjie-cloud-springcloud/renjie-gateway/pom.xml" />
       </list>
     </option>
   </component>

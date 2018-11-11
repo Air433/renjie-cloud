@@ -30,6 +30,9 @@
         <mybatis.plus-starter>1.0.5</mybatis.plus-starter>
         <commons-lang.version>2.6</commons-lang.version>
         <mysql.version>5.1.46</mysql.version>
+        <shiro.version>1.4.0</shiro.version>
+        <jedis.version>2.9.0</jedis.version>
+        <shiro.version>1.4.0</shiro.version>
     </properties>
 
 </project>

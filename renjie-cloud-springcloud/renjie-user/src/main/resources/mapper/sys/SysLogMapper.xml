@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.renjie.modules.sys.dao.SysLogMapper">
+<mapper namespace="com.renjie.cloud.renjie.user.dao.SysLogMapper">
 
     <!-- 通用查询映射结果 -->
     <resultMap id="BaseResultMap" type="com.renjie.cloud.renjie.user.entity.SysLog">

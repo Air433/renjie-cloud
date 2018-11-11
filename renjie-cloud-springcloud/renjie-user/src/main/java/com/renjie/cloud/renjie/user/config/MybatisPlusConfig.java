@@ -94,7 +94,7 @@ public class MybatisPlusConfig {
     log.info("初始化MapperScannerConfigurer");
     MapperScannerConfigurer mapperScannerConfigurer = new MapperScannerConfigurer();
     //String basePackage = "com.renjie.dao.**";
-    String basePackage = "com.renjie.modules.*.dao.**";
+    String basePackage = "com.renjie.cloud.renjie.user.dao.**";
     mapperScannerConfigurer.setBasePackage(basePackage);
     return mapperScannerConfigurer;
   }
